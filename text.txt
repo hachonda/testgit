@@ -10,3 +10,6 @@ Line 5
 line 6
 
 line 7
+
+New feature branch line
+Another line in newfeature 
